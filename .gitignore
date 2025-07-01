@@ -39,7 +39,6 @@ server/dist/
 server/build/
 server/.env
 server/.env.*
-
 # IDEs and editors
 .vscode/
 .idea/
